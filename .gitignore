@@ -38,6 +38,7 @@ config.rst
 
 /.project
 /.pydevproject
+/data
 
 package-lock.json
 geckodriver.log
